@@ -1,0 +1,3 @@
+This script will print no from 1 to 100 and prints 'Fizz' if it is multiplied by 3 and 
+prints 'Buzz' if the no is multiplied by 5. Finallly it prints 'FizzBuzz' if the no is
+ multiplied by both no 3 and 5.
